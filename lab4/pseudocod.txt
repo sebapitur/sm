@@ -1,0 +1,19 @@
+/*The distributed algorithm for NN Benes-based ONoC */ 
+/*Current router: Rij */
+/*Source node: Sm*/ /*Destination node: Dn*/
+/* N 2k */
+/*b (1 bk ) is an integer*/ 
+
+Begin if (j >= 1 && j < k && puo is busy) 
+	pso = plo of Rij;
+else if (j >= 1 && j < k && plo is busy)
+	pso = puo of Rij;
+else if (j >= 1 && j < k && plo and puo are free) 
+	pso = plo or puo of Rij;
+else if (j == (2k - b)) {
+  if (Rbit == 0)
+    pso = puo of Rij;
+  else if (Rbit == 1)
+    pso = plo of Rij;
+}
+Return output port pso

@@ -1,0 +1,1 @@
+./omega 3 8 < input.txt
