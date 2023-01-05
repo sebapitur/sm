@@ -1,0 +1,1 @@
+sudo mpirun --allow-run-as-root -np 2 --oversubscribe /opt/AMDuProf_4.0-341/bin/AMDuProfCLI collect --config tbp --mpi --output-dir /home/sebastian/facultate/sm/tema12/ /home/sebastian/facultate/sm/tema12/prim_omp_mpi /home/sebastian/facultate/sm/tema12/input14.txt

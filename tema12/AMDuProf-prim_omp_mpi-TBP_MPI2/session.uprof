@@ -1,0 +1,244 @@
+{
+    "auxiliary": {
+        "cores": 8,
+        "cpuFamily": 25,
+        "cpuModel": 80,
+        "cpuTopology": [
+            [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                2,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                5,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                6,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                7,
+                0,
+                0,
+                0,
+                0
+            ]
+        ],
+        "eventColumnIds": [
+            {
+                "category": 1,
+                "categoryName": "CPU",
+                "events": [
+                    {
+                        "callstack": true,
+                        "category": 1,
+                        "description": "CPU Time is the time in which the CPU core is executing the code.",
+                        "encodedId": 562949953478656,
+                        "eventCategory": 2,
+                        "expression": "",
+                        "hwEventId": 57344,
+                        "interval": 1,
+                        "name": "CPU_TIME",
+                        "opCycleCount": false,
+                        "osMode": false,
+                        "samples": 0,
+                        "threshold": 0,
+                        "unitMask": 0,
+                        "usrMode": false
+                    }
+                ]
+            }
+        ],
+        "guest": false,
+        "guestKallsyms": "",
+        "guestKmodules": "",
+        "guestPid": 307,
+        "guestSymPaths": "",
+        "host": false,
+        "hypervisorEnabled": true,
+        "hypervisorVendor": "Linux KVM",
+        "ibsIdentifiers": 0,
+        "ibsOpSampling": false,
+        "isCacheline": false,
+        "osName": "LinuxUbuntu 20.04.5 LTS-64 Kernel:5.15.0-56-generic",
+        "p0Freq": 0,
+        "profScope": "Single Application",
+        "profiledPids": "1219646;"
+    },
+    "categoriesCollected": [
+        "cpu"
+    ],
+    "collection": {
+        "callstack": {
+            "fpo": false,
+            "interval": 1,
+            "scope": 1,
+            "unwindDepth": 64
+        },
+        "dataBufferCount": 0,
+        "events": {
+            "configName": "Time-based Sampling",
+            "configType": 4,
+            "ibsEvents": {
+                "cacheAnalysis": false,
+                "fetch": false,
+                "fetchCallstack": true,
+                "fetchInterval": 0,
+                "fetchL3Miss": false,
+                "loadStoreOnly": false,
+                "op": false,
+                "opCallstack": true,
+                "opCycleCount": true,
+                "opInterval": 0,
+                "opL3Miss": false,
+                "randomize": true
+            },
+            "pmcEvents": null,
+            "timerCallstack": true,
+            "timerInterval": 1.0
+        },
+        "flags": {
+            "cssDefaultValues": false,
+            "hasCallstack": false,
+            "maxDataFileSize": 0,
+            "perEventCSSDefault": false,
+            "profileMpi": true,
+            "pythonTraceOptions": false,
+            "traceMpi": false,
+            "traceOpenmp": false
+        },
+        "livePower": null,
+        "mmapBuffer": 16384,
+        "predefinedInterval": 0,
+        "profileConfigFiles": [
+            "tbp"
+        ],
+        "schedule": {
+            "categoryDurations": [
+                {
+                    "category": 1,
+                    "categoryName": "CPU",
+                    "end": 12635073799111,
+                    "start": 12519059801828,
+                    "type": 0
+                }
+            ],
+            "elapsed": 116014,
+            "end": 12635073799111,
+            "endTs": "Thu Jan  5 17:25:36 2023",
+            "profileDuration": 0,
+            "start": 12519059801918,
+            "startDelay": 0,
+            "startTs": "Thu Jan  5 17:23:40 2023",
+            "type": 1
+        },
+        "sessionVersion": 1,
+        "target": {
+            "appArgs": "/home/sebastian/facultate/sm/tema12/input14.txt ",
+            "coreAffinity": "1",
+            "coreMask": "FF",
+            "gpuFamily": "",
+            "launchApp": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+            "systemWide": false,
+            "terminateApp": false,
+            "workingDir": "/home/sebastian/facultate/sm/tema12"
+        }
+    },
+    "generatedDBs": [
+        {
+            "category": 1,
+            "categoryName": "cpu",
+            "databaseName": "cpu"
+        }
+    ],
+    "hpc": {
+        "hostName": "UbuntuVirtualBox",
+        "mpi-profiling": [
+            {
+                "mpiHost": "UbuntuVirtualBox",
+                "pidMetdata": [
+                    {
+                        "end": 12635073799111,
+                        "pid": 1219646,
+                        "processType": 3,
+                        "rank": 0,
+                        "ranksPerNode": 2,
+                        "start": 12519059801918,
+                        "totalRanks": 2
+                    },
+                    {
+                        "end": 12635072426517,
+                        "pid": 1219647,
+                        "processType": 3,
+                        "rank": 1,
+                        "ranksPerNode": 2,
+                        "start": 12519059801828,
+                        "totalRanks": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "profileType": 1,
+    "translation": [
+        {
+            "aggregateCoreLevel": false,
+            "aggregateInst": true,
+            "aggregateInterval": 1024,
+            "asciiFlags": 0,
+            "cachePath": "/home/sebastian/Downloads//AMDuProf",
+            "category": 1,
+            "categoryNames": "CPU",
+            "debugSymbolsPath": "/home/sebastian/facultate/sm/tema12",
+            "hostName": "",
+            "mpiInputDir": "/home/sebastian/facultate/sm/tema12/AMDuProf-prim_omp_mpi-TBP_MPI//cpu",
+            "processInlineFunctions": false,
+            "symbolServerDirs": ""
+        }
+    ]
+}

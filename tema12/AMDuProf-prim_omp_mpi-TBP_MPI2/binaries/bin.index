@@ -1,0 +1,10 @@
+/usr/lib/x86_64-linux-gnu/libc-2.31.so;/usr/lib/x86_64-linux-gnu/libc-2.31.so
+
+/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3;/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3
+
+/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so
+
+/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0;/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+
+/home/sebastian/facultate/sm/tema12/prim_omp_mpi;/home/sebastian/facultate/sm/tema12/prim_omp_mpi
+

@@ -1,0 +1,1420 @@
+[
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415425,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415427,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_tcp.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415427,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415428,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415433,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415434,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415436,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415437,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415452,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415460,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/pmix/lib/libpmix.so.2.2.25",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415460,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415465,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415473,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/pmix/lib/libpmix.so.2.2.25",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415487,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libdl-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415489,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415491,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415505,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415506,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libfabric.so.1.9.15",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415507,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415508,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415508,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415509,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415510,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415510,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415512,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415513,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415513,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415515,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415516,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415528,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 280320,
+        "source": 2,
+        "timestamp": 1672933415530,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 280176,
+        "source": 2,
+        "timestamp": 1672933415531,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415533,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415536,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415536,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libpthread-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415537,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415537,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415538,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415538,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415541,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415544,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415546,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415552,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 560304,
+        "source": 2,
+        "timestamp": 1672933415552,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 277344,
+        "source": 2,
+        "timestamp": 1672933415556,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415563,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 280032,
+        "source": 2,
+        "timestamp": 1672933415568,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415568,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/lib/modules/5.15.0-56-generic/vdso/vdso64.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415574,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415578,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 840432,
+        "source": 2,
+        "timestamp": 1672933415581,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 554688,
+        "source": 2,
+        "timestamp": 1672933415585,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415586,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libpthread-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415590,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 560064,
+        "source": 2,
+        "timestamp": 1672933415593,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415601,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 560640,
+        "source": 2,
+        "timestamp": 1672933415606,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 831984,
+        "source": 2,
+        "timestamp": 1672933415607,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415614,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 840048,
+        "source": 2,
+        "timestamp": 1672933415616,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1109328,
+        "source": 2,
+        "timestamp": 1672933415627,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 840960,
+        "source": 2,
+        "timestamp": 1672933415630,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libpthread-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415631,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415637,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 1120080,
+        "source": 2,
+        "timestamp": 1672933415638,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1386672,
+        "source": 2,
+        "timestamp": 1672933415648,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1120560,
+        "source": 2,
+        "timestamp": 1672933415651,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1121232,
+        "source": 2,
+        "timestamp": 1672933415652,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1400064,
+        "source": 2,
+        "timestamp": 1672933415659,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1663968,
+        "source": 2,
+        "timestamp": 1672933415665,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1400688,
+        "source": 2,
+        "timestamp": 1672933415670,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1401552,
+        "source": 2,
+        "timestamp": 1672933415671,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415676,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415679,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 1680096,
+        "source": 2,
+        "timestamp": 1672933415679,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1941312,
+        "source": 2,
+        "timestamp": 1672933415685,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1680816,
+        "source": 2,
+        "timestamp": 1672933415691,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1681872,
+        "source": 2,
+        "timestamp": 1672933415692,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1960080,
+        "source": 2,
+        "timestamp": 1672933415697,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2218656,
+        "source": 2,
+        "timestamp": 1672933415705,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1962192,
+        "source": 2,
+        "timestamp": 1672933415709,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1960944,
+        "source": 2,
+        "timestamp": 1672933415710,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2240112,
+        "source": 2,
+        "timestamp": 1672933415718,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2495952,
+        "source": 2,
+        "timestamp": 1672933415725,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/lib/modules/5.15.0-56-generic/vdso/vdso64.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415728,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 2242464,
+        "source": 2,
+        "timestamp": 1672933415730,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2241120,
+        "source": 2,
+        "timestamp": 1672933415734,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2520096,
+        "source": 2,
+        "timestamp": 1672933415739,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2522784,
+        "source": 2,
+        "timestamp": 1672933415754,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415755,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 2521248,
+        "source": 2,
+        "timestamp": 1672933415760,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/lib/modules/5.15.0-56-generic/vdso/vdso64.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415767,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/pmix/lib/libpmix.so.2.2.25",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415776,
+        "type": 5
+    }
+]
+[
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415425,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415427,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_tcp.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415427,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415428,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415433,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415434,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415436,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415437,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415452,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415460,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/pmix/lib/libpmix.so.2.2.25",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415460,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415465,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415473,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/pmix/lib/libpmix.so.2.2.25",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415487,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libdl-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415489,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415491,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415505,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415506,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libfabric.so.1.9.15",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415507,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415508,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415508,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415509,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415510,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415510,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415512,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415513,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415513,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415515,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415516,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415528,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 280320,
+        "source": 2,
+        "timestamp": 1672933415530,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 280176,
+        "source": 2,
+        "timestamp": 1672933415531,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415533,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libopen-pal.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415536,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_vader.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415536,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libpthread-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415537,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415537,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415538,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_openib.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415538,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415541,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415544,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/home/sebastian/facultate/sm/tema12/prim_omp_mpi",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415546,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so.40.20.3",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415552,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 560304,
+        "source": 2,
+        "timestamp": 1672933415552,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 277344,
+        "source": 2,
+        "timestamp": 1672933415556,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415563,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 280032,
+        "source": 2,
+        "timestamp": 1672933415568,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415568,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/lib/modules/5.15.0-56-generic/vdso/vdso64.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415574,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415578,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 840432,
+        "source": 2,
+        "timestamp": 1672933415581,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 554688,
+        "source": 2,
+        "timestamp": 1672933415585,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415586,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libpthread-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415590,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 560064,
+        "source": 2,
+        "timestamp": 1672933415593,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_coll_tuned.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415601,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 560640,
+        "source": 2,
+        "timestamp": 1672933415606,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 831984,
+        "source": 2,
+        "timestamp": 1672933415607,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415614,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 840048,
+        "source": 2,
+        "timestamp": 1672933415616,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1109328,
+        "source": 2,
+        "timestamp": 1672933415627,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 840960,
+        "source": 2,
+        "timestamp": 1672933415630,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libpthread-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415631,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415637,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 1120080,
+        "source": 2,
+        "timestamp": 1672933415638,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1386672,
+        "source": 2,
+        "timestamp": 1672933415648,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1120560,
+        "source": 2,
+        "timestamp": 1672933415651,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1121232,
+        "source": 2,
+        "timestamp": 1672933415652,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1400064,
+        "source": 2,
+        "timestamp": 1672933415659,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1663968,
+        "source": 2,
+        "timestamp": 1672933415665,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1400688,
+        "source": 2,
+        "timestamp": 1672933415670,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1401552,
+        "source": 2,
+        "timestamp": 1672933415671,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415676,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.0",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415679,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 1680096,
+        "source": 2,
+        "timestamp": 1672933415679,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1941312,
+        "source": 2,
+        "timestamp": 1672933415685,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1680816,
+        "source": 2,
+        "timestamp": 1672933415691,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1681872,
+        "source": 2,
+        "timestamp": 1672933415692,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1960080,
+        "source": 2,
+        "timestamp": 1672933415697,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2218656,
+        "source": 2,
+        "timestamp": 1672933415705,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1962192,
+        "source": 2,
+        "timestamp": 1672933415709,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 1960944,
+        "source": 2,
+        "timestamp": 1672933415710,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2240112,
+        "source": 2,
+        "timestamp": 1672933415718,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2495952,
+        "source": 2,
+        "timestamp": 1672933415725,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/lib/modules/5.15.0-56-generic/vdso/vdso64.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415728,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 2242464,
+        "source": 2,
+        "timestamp": 1672933415730,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2241120,
+        "source": 2,
+        "timestamp": 1672933415734,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2520096,
+        "source": 2,
+        "timestamp": 1672933415739,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "content": 2522784,
+        "source": 2,
+        "timestamp": 1672933415754,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/ld-2.31.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415755,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "content": 2521248,
+        "source": 2,
+        "timestamp": 1672933415760,
+        "type": 3
+    },
+    {
+        "category": 1,
+        "module": "/lib/modules/5.15.0-56-generic/vdso/vdso64.so",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415767,
+        "type": 5
+    },
+    {
+        "category": 1,
+        "module": "/usr/lib/x86_64-linux-gnu/pmix/lib/libpmix.so.2.2.25",
+        "phase": 3,
+        "source": 2,
+        "timestamp": 1672933415776,
+        "type": 5
+    }
+]

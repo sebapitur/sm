@@ -1,5 +1,5 @@
-prim: prim.cpp
-	g++ prim.cpp -o prim -lpthread -g
+prim_pthreads: prim_pthreads.cpp
+	g++ prim_pthreads.cpp -o prim_pthreads -lpthread
 
 clean:
-	rm -f prim
+	rm -f prim_pthreads
